@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,app.chat.xiaomi.net
 DOMAIN-SUFFIX,appstore.cdn.pandora.xiaomi.com
 DOMAIN-SUFFIX,appstore.pandora.xiaomi.com
 #DOMAIN-SUFFIX,api.io.mi.com
-#DOMAIN-SUFFIX,api.home.mi.com
+DOMAIN-SUFFIX,api.home.mi.com
 DOMAIN-SUFFIX,api.ad.xiaomi.com
 DOMAIN-SUFFIX,ad.doubleclick.net
 DOMAIN-SUFFIX,bss.pandora.xiaomi.com
